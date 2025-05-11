@@ -28,6 +28,7 @@ Execute the C Program for the desired output.
 
 ## OUTPUT
 
+![ex04-1](https://github.com/user-attachments/assets/29e0cb5a-b702-414d-8e72-3c4c56d0ec02)
 
 
 
